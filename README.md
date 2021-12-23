@@ -1,4 +1,4 @@
-<img alt="banner" src="airbnb-madrid-banner.jpeg" width="100%">
+<img alt="banner" src="madrid_banner.png" width="100%">
 
 # Airbnb Exploratory Data Analysis for the city of Madrid - Spain
 
